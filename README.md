@@ -1,16 +1,14 @@
-### Hi there 👋
+![](https://images.cooltext.com/5548422.gif)
 
-<!--
-**CesarVenegasM/CesarVenegasM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="http://cooltext.com" target="_top"><img src="https://images.cooltext.com/5548422.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Buenas 👋
+
+
+Gusto de visitar el perfil de 👨‍🏫 ✨ Cesar Venegas✨.
+
+Estudio en el TecTijuana:
+
+- ⚡ Sabias: Soy exalumno de la PFLC II
+
