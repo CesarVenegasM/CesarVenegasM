@@ -7,9 +7,15 @@ Bienvenido a el perfil de 👨‍🏫 ✨ Cesar Venegas✨.
 
 Estudio en el TecTijuana:
 
-- ⚡ Sabias: Soy exalumno de la PFLC II
-- ⚡ Sabias: Actualmente estudio la carrera de Ingenieria en sistemas Computacionales cursando el 5to Semestre      
+- ⚡ Soy exalumno de la PFLC II
+- ⚡ Actualmente estudio la carrera de Ingenieria en sistemas Computacionales cursando el 5to Semestre      
 
+### Contacto
+
+- Twitter: @ELCAOS
+- Email: cesar.venegas193@tectijuana.edu.mx
+
+### Horario
 
 <table class="tg">
 <thead>
