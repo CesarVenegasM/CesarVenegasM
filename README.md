@@ -12,7 +12,7 @@ Estudio en el TecTijuana:
 
 ### Contacto
 
-- Twitter: @ELCAOS
+- Twitter: https://twitter.com/ELCAOS
 - Email: cesar.venegas193@tectijuana.edu.mx
 
 ### Horario
