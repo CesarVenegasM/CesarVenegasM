@@ -5,10 +5,10 @@
 
 Bienvenido a el perfil de 👨‍🏫 ✨ Cesar Venegas✨.
 
-Estudio en el TecTijuana:
+Estudio en el Instituto Tecnológico de Tijuana:
 
 - ⚡ Soy exalumno de la PFLC II
-- ⚡ Actualmente estudio la carrera de Ingenieria en sistemas Computacionales cursando el 5to Semestre      
+- ⚡ Actualmente estudio la carrera de Ingenieria en sistemas computacionales  
 
 ### Contacto
 
